@@ -1,0 +1,9 @@
+Workflow: CI workflow
+Status: Success (Green)
+Repository: yeraldinespitiarativa-design/ci-cd-final-project
+Branch: main
+Steps Completed:
+- Checkout
+- Install dependencies
+- Lint with flake8
+- Run unit tests with nose (with coverage)
